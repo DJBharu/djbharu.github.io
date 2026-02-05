@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djbharu.github.io/sitemap.xml
